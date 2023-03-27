@@ -1,2 +1,1 @@
-# tp_progC
-tps de programmation C
+ceci est le readme
